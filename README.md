@@ -11,8 +11,8 @@ Each data entry in the dataset is a JSON object containing the following fields:
 - `lang`: The language for the data
 - `system_1`: System 1 in one system analogy
 - `system_2`: System 2 in one system analogy
-- `senario_1_domain`: The domain of the system 1
-- `senario_2_domain`: The domain of the system 2
+- `system_1_domain`: The domain of the system 1
+- `system_2_domain`: The domain of the system 2
 - `system_1_background`: The background information of the system 1
 - `system_2_background`: The background information of the system 2
 - `Explanation`: The explanation for term mappings in one system analogy

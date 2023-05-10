@@ -1,4 +1,5 @@
-# SA2
+# SA2 ![SA2_logo](figure/Sa2_sonic.png)
+
 ![SA2_Example](figure/SA2.png)
 
 Resources for the paper: *Lifting the Veil of Analogy: Scientific Analogical Structure Abduction for Large Language Models*

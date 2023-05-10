@@ -1,4 +1,4 @@
-# SA2 ![SA2_logo](figure/Sa2_sonic.png)
+# SA2 <img src="figure/Sa2_sonic.png" alt="SA2_logo" width="40">
 
 ![SA2_Example](figure/SA2.png)
 

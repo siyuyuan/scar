@@ -1,4 +1,4 @@
-# SA2 <img src="figure/Sa2_sonic.png" alt="SA2_logo" width="40">
+# Sci-Analogy
 
 ![SA2_Example](figure/SA2.png)
 

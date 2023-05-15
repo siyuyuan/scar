@@ -1,0 +1,155 @@
+Instruction 1 : 
+
+When provided with two distinct scenarios, identify and list the corresponding elements within each scenario to create a clear analogy between them. You must establish a one-to-one connection between the items in both scenarios. Present your findings in the format: [['Scenario 1 Item 1', 'Scenario 2 Item 1'], ['Scenario 1 Item 2', 'Scenario 2 Item 2'], ...]
+
+Example:
+
+Scenario 1: Solar System
+Scenario 2: Atom Structure
+Items in Scenario 1: Newton, Sun, Earth
+Items in Scenario 2: Nucleus, Faraday, Electron
+
+Establish a one-to-one mapping between the items in the two scenarios and present your findings in the format: [['Scenario 1 Item 1', 'Scenario 2 Item 1'], ['Scenario 1 Item 2', 'Scenario 2 Item 2'], ...]:
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+
+==========================
+
+Instruction 2: 
+
+For the provided pair of scenarios, identify the corresponding elements within each scenario and create a one-to-one mapping between them. Present your answer in the format of paired elements, such as [[Element1_Scenario1, Element1_Scenario2], [Element2_Scenario1, Element2_Scenario2], ...].
+
+Example:
+
+Scenario 1: Solar System
+Scenario 2: Atom Structure
+Elements in Scenario 1: Newton, Sun, Earth
+Elements in Scenario 2: Nucleus, Faraday, Electron
+
+Create a one-to-one mapping between the elements of the two scenarios and present it in the required format.
+
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+==========================
+
+Instruction 3:
+ 
+For two given scenarios, you are required to create an analogy by matching the items in each scenario with one another in a one-to-one mapping. Present your response in the format: [[Item1_Scenario1, Item1_Scenario2], [Item2_Scenario1, Item2_Scenario2], ...].
+
+Example:
+Scenario 1: Solar System
+Scenario 2: Atom Structure
+Items in Scenario 1: Newton, Sun, Earth
+Items in Scenario 2: Nucleus, Faraday, Electron
+
+Answer format: 
+[['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+===========================
+
+Instruction 4:
+
+When provided with two systems, create a list that shows the relationships between the elements of each system, forming an analogy between them. Make sure the relationships are one-to-one connections. Use the format [[Element1a, Element1b], [Element2a, Element2b], ...] to display the connections.
+
+Example:
+System 1: Solar System
+System 2: Atom Structure
+Elements in System 1: Newton, Sun, Earth
+Elements in System 2: Nucleus, Faraday, Electron
+
+Create a list to show the relationships between the elements:
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+============================
+
+Instruction 5:
+
+Compare two given situations and identify the corresponding elements within each of them to create an analogy between the situations. Make sure that you establish a direct one-to-one correlation between the elements in each situation.
+
+Example:
+Situation 1: Solar System
+Situation 2: Atom Structure
+Elements in Situation 1: Newton, Sun, Earth
+Elements in Situation 2: Nucleus, Faraday, Electron
+
+Provide the matched pairs of elements from both situations using the format: [[Element1a, Element1b], [Element2a, Element2b], ...]
+
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+============================
+
+Instruction 6:
+
+When provided with two different scenarios, create a one-to-one comparison between the elements of each scenario in order to form an analogy between them. Use the format [[Scenario1_Element1, Scenario2_Element1], [Scenario1_Element2, Scenario2_Element2], ...] for your response. 
+
+For example:
+Scenario 1: Solar System
+Scenario 2: Atom Structure
+Elements in Scenario 1: Newton, Sun, Earth
+Elements in Scenario 2: Nucleus, Faraday, Electron
+
+Your response should be: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+============================
+
+Instruction 7:
+
+Rewrite this instruction:
+
+In the presence of two situations, kindly provide a correlation for the elements present in both situations in order to form a analogy between them:
+
+Situation 1: Solar System
+Situation 2: Atom Structure
+Elements in Situation 1: Newton, Sun, Earth
+Elements in Situation 2: Nucleus, Faraday, Electron
+
+Please provide a correlation for the elements involved in both situations, ensuring a one-to-one relationship. The format should be: [[Element1_Situation1, Element1_Situation2], [Element2_Situation1, Element2_Situation2], ...]
+
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+============================
+
+Instruction 8:
+
+In the context of two given situations, please provide a connection between the elements present in both situations to create a analogy between them:
+
+Situation 1: Solar System
+Situation 2: Atom Structure
+Elements in Situation 1: Newton, Sun, Earth
+Elements in Situation 2: Nucleus, Faraday, Electron
+
+Please provide a connection between the elements in both situations (keep in mind that it should be a one-to-one connection). The format should be: [[Element1_Situation1, Element1_Situation2], [Element2_Situation1, Element2_Situation2], ...]
+
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+============================
+
+Instruction 9:
+
+When given two scenarios, make a list that highlights the connections between elements from each scenario in order to establish an analogy. Ensure that the links are made with a one-to-one correspondence. Present the connections using the format [[Item1a, Item1b], [Item2a, Item2b], ...].
+
+Example:
+Scenario 1: Solar System
+Scenario 2: Atom Structure
+Items in Scenario 1: Newton, Sun, Earth
+Items in Scenario 2: Nucleus, Faraday, Electron
+
+Construct a list demonstrating the links between the items:
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]
+
+============================
+
+Instruction 10:
+
+Rewrite this instruction:
+
+When given two scenarios, make a list that illustrates the connections between the components of each scenario, forming a analogy between them. Ensure that the connections are direct one-to-one links. Use the format [[Component1a, Component1b], [Component2a, Component2b], ...] to display the connections.
+
+Example:
+Scenario 1: Solar System
+Scenario 2: Atom Structure
+Components in Scenario 1: Newton, Sun, Earth
+Components in Scenario 2: Nucleus, Faraday, Electron
+
+Create a list to demonstrate the connections between the components:
+Answer: [['Newton','Faraday'], ['Sun','Nucleus'], ['Earth','Electron']]

@@ -1,4 +1,4 @@
-# Sci-Analogy
+# SCAR
 
 ![SA2_Example](figure/SA2.png)
 

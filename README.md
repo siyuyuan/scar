@@ -44,4 +44,4 @@ Here's an example data entry from the dataset:
 ```
 
 ## Ethics Statement
-All authors of this work abide by the provided Code of Ethics. Annotators recruited by our institution annotate the system analogies in SA2. The annotation quality is ensured through a double-check strategy. We ensure that the privacy rights of all annotators are respected in the annotation process. As described in our paper, all annotators are compensated above the local minimum wage and consent to using the SA2 for research purposes.
+All authors of this work abide by the provided Code of Ethics. Annotators recruited by our institution annotate the system analogies in SCAR. The annotation quality is ensured through a double-check strategy. We ensure that the privacy rights of all annotators are respected in the annotation process. As described in our paper, all annotators are compensated above the local minimum wage and consent to using the SCAR for research purposes.

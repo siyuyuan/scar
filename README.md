@@ -2,7 +2,7 @@
 
 ![scar_Example](figure/front_final.jpg)
 
-Resources for the paper: *Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction*
+Resources for our EMNLP paper: *Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction*
 
 ## Dataset Format
 
@@ -45,3 +45,31 @@ Here's an example data entry from the dataset:
 
 ## Ethics Statement
 All authors of this work abide by the provided Code of Ethics. Annotators recruited by our institution annotate the system analogies in SCAR. The annotation quality is ensured through a double-check strategy. We ensure that the privacy rights of all annotators are respected in the annotation process. As described in our paper, all annotators are compensated above the local minimum wage and consent to using the SCAR for research purposes.
+
+
+## Citation
+
+If you find our paper or resources useful, please kindly cite our paper. If you have any questions, please [contact us](mailto:syyuan21@m.fudan.edu.cn)!
+
+```latex
+@inproceedings{yuan-etal-2023-beneath,
+    title = "Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction",
+    author = "Yuan, Siyu  and
+      Chen, Jiangjie  and
+      Ge, Xuyang  and
+      Xiao, Yanghua  and
+      Yang, Deqing",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.160",
+    doi = "10.18653/v1/2023.findings-emnlp.160",
+    pages = "2446--2460",
+    abstract = "The vital role of analogical reasoning in human cognition allows us to grasp novel concepts by linking them with familiar ones through shared relational structures. Despite the attention previous research has given to word analogies, this work suggests that Large Language Models (LLMs) often overlook the structures that underpin these analogies, raising questions about the efficacy of word analogies as a measure of analogical reasoning skills akin to human cognition. In response to this, our paper introduces a task of analogical structure abduction, grounded in cognitive psychology, designed to abduce structures that form an analogy between two systems. In support of this task, we establish a benchmark called SCAR, containing 400 scientific analogies from 13 distinct fields, tailored for evaluating analogical reasoning with structure abduction. The empirical evidence underlines the continued challenges faced by LLMs, including ChatGPT and GPT-4, in mastering this task, signifying the need for future exploration to enhance their abilities.",
+}
+```
